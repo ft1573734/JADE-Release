@@ -3,6 +3,6 @@ The algorithm is implemented using Python. The LA related mechanisms are impleme
 
 EmbeddingModel.py implements BES-36. 
 
-JADEAlgorithm contains the core functions of JADE.
+JADEAlgorithm.py contains the core functions of JADE.
 
-JADEAlgorithm provides an example of processing a data set using JADE.
+JADEAlgMain.py provides an example of processing a data set using JADE.
